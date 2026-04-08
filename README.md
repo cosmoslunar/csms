@@ -4,7 +4,7 @@ UAYOR(use at your own risk)
 usb에 다운 받아서 사용하세요.(코드 누르고 다운로드 zip)
 학교에서 쓸만한 도구들을 모아놨습니다.
 게임
-이글러크래프트란 원래 자바 기반의 마인크래프트를 html등으로 실행할 수 있도록 해 놓은 것인데 옛날 버전이지만 저사양으로 게임을 할 수 있고 서버도 열어서 친구들과 함께 할 수 있습니다. (인터넷 필요 없음) (TLauncher는 안전한지 모르겠음 가능하면 쓰지 말고 https://github.com/PrismLauncher/PrismLauncher 아니면 minetest라는 것도 있긴한데 프리즘 런처 쓰세요)
+이글러크래프트란 원래 자바 기반의 마인크래프트를 html등으로 실행할 수 있도록 해 놓은 것인데 옛날 버전이지만 저사양으로 게임을 할 수 있고 서버도 열어서 친구들과 함께 할 수 있습니다. (인터넷 필요 없음) (TLauncher는 안전한지 모르겠음 가능하면 쓰지 말고 https://github.com/PrismLauncher/PrismLauncher 아니면 minetest라는 것도 있긴한데 프리즘 런처(크랙은 안전한지 모름https://github.com/Diegiwg/PrismLauncher-Cracked/releases) 쓰세요)
 포켓몬 골드, 에메랄드도 가져와서 넣어놨고, 인터넷에 군대 html게임 등이라고 치면 많이 나옵니다.
 zip파일로 되어있는건 두가지 버전 중에서 최신 버전으로 용량이 커서 압축되어 있습니다.
 오래된 fps 게임도(doom) 넣어놨습니다.
