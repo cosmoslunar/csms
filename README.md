@@ -1,7 +1,7 @@
 # csms
 free safe tool for school pc
 UAYOR(use at your own risk)
-usb에 다운 받아서 사용하세요.(코드 누르고 다운로드 zip)
+usb에 다운 받아서 사용하세요.(코드 누르고 다운로드 zip, 전체 파일 100mb 아래)
 학교에서 쓸만한 도구들을 모아놨습니다.
 게임
 이글러크래프트란 원래 자바 기반의 마인크래프트를 html등으로 실행할 수 있도록 해 놓은 것인데 옛날 버전이지만 저사양으로 게임을 할 수 있고 서버도 열어서 친구들과 함께 할 수 있습니다. (인터넷 필요 없음) (TLauncher는 안전한지 모르겠음 가능하면 쓰지 말고 https://github.com/PrismLauncher/PrismLauncher 아니면 minetest라는 것도 있긴한데 프리즘 런처(크랙은 안전한지 모름https://github.com/Diegiwg/PrismLauncher-Cracked/releases) 쓰세요)
