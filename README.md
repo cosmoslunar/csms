@@ -28,5 +28,6 @@ ai
 +핸드폰 감시가 너무 짜증난다면 구글 기반이라면 그냥 구글 계정을 삭제하면 자유로워진다.
 https://m.blog.naver.com/nysgkim/220616226236   여기서 파일 강제 삭제 배워서 쓰면 됨
 토렌트 구버전(광고X)올림
-토르 프로젝트 사이트가 차단되어도 토르 자체는 차단 안 될 수도 있음(확인법 핸드폰에 토르 설치하고 차단된 인터넷 망에 접속)(https://www.torproject.org 공식 사이트, 막히면 일단 공식 깃허브 레포 https://github.com/TheTorProject/gettorbrowser/releases가 보셈) 이거 막히면 집에서 다운로드 받고 usb, gmail, 구글드라이브 등으로 옮겨서 쓰셈
+토르 프로젝트 사이트가 차단되어도 토르 자체는 차단 안 될 수도 있음(확인법 핸드폰에 토르 설치하고 차단된 인터넷 망에 접속)(https://www.torproject.org 공식 사이트, 막히면 일단 공식 깃허브 레포 https://github.com/TheTorProject/gettorbrowser/releases가 보셈) 이거 막히면 집에서 다운로드 받고 usb, gmail, 구글드라이브 등으로 옮겨서 쓰셈(최신 버전은 100mb)
 뉴토끼 등 불법 사이트 곧 긴급 차단 정책 시행 https://www.anaheimfmc.org/link vpn, tor 사용 추천함(옛날에 올라온 블로그 여기 우회법 설명 있음 https://m.blog.naver.com/blue_7335/221693498353 법 시행 관련 설명출처: 나무위키 https://share.google/7sKWlzAezcoznvYYj 5월 중순 시행 예정)
+보안 관련 팁:최근 옛날부터 발견되던 아이폰 해킹 툴을 계승해서 coruna킷이 발견되었으니 업데이트 필요(+아이폰이 안전하다고 하지만 코드가 오픈되어있지 않아서 취약점이 고쳐지는데 오래 걸려서 개인적으로 취약점이 모두에게 빨리 발견되는 안드로이드 추천함)(+항상 업데이트는 최신버전으로!)
