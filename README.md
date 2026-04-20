@@ -34,3 +34,4 @@ https://m.blog.naver.com/nysgkim/220616226236   여기서 파일 강제 삭제 �
 구글 ai 엣지 갤러리라는 로컬 ai 실행 앱 있는데 추천함
 웹 게임 poki, cloudmoon
 https://wepplication.github.io/links/
+2048게임 https://blog.yjyoon.dev/  https://yjyoon-dev.github.io/games/2048.html
