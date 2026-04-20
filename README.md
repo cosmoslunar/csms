@@ -32,3 +32,5 @@ https://m.blog.naver.com/nysgkim/220616226236   여기서 파일 강제 삭제 �
 뉴토끼 등 불법 사이트 곧 긴급 차단 정책 시행 https://www.anaheimfmc.org/link vpn, tor 사용 추천함(옛날에 올라온 블로그 여기 우회법 설명 있음 https://m.blog.naver.com/blue_7335/221693498353 법 시행 관련 설명출처: 나무위키 https://share.google/7sKWlzAezcoznvYYj 5월 중순 시행 예정)
 보안 관련 팁:최근 옛날부터 발견되던 아이폰 해킹 툴을 계승해서 coruna킷이 발견되었으니 업데이트 필요(+아이폰이 안전하다고 하지만 코드가 오픈되어있지 않아서 취약점이 고쳐지는데 오래 걸려서 개인적으로 취약점이 모두에게 빨리 발견되는 안드로이드 추천함)(+항상 업데이트는 최신버전으로!)
 구글 ai 엣지 갤러리라는 로컬 ai 실행 앱 있는데 추천함
+웹 게임 poki, cloudmoon
+https://wepplication.github.io/links/
