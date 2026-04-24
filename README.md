@@ -36,3 +36,6 @@ https://m.blog.naver.com/nysgkim/220616226236   여기서 파일 강제 삭제 �
 https://wepplication.github.io/links/
 2048게임 https://blog.yjyoon.dev/  https://yjyoon-dev.github.io/games/2048.html
 html도구, 게임 https://github.com/h2llo/learn-js
+gnarly(레딧에서 유명한 불법 게임)
+https://rentry.co/gnarly_repacks
+https://gnarly-repacks.com/
