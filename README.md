@@ -39,3 +39,5 @@ html도구, 게임 https://github.com/h2llo/learn-js
 gnarly(레딧에서 유명한 불법 게임)
 https://rentry.co/gnarly_repacks
 https://gnarly-repacks.com/
+vm추천
+https://www.oracle.com/kr/virtualization/technologies/vm/downloads/virtualbox-downloads.html#vbox
