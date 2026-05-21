@@ -45,3 +45,5 @@ vm추천
 https://www.oracle.com/kr/virtualization/technologies/vm/downloads/virtualbox-downloads.html#vbox
 무료 책
 https://annasarchive.info/
+뉴토끼 부활
+ntk01.com
