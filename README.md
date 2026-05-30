@@ -10,6 +10,10 @@ https://github.com/cosmoslunar/pokemon
 Releases · PojavLauncherTeam/PojavLauncher
 https://github.com/PojavLauncherTeam/PojavLauncher/releases
 영미권에서 많이 쓰는 것 같은 포자브 런처고 안드로이드용임.
+아이폰 버전 공식은 중지되었고 포크는
+https://github.com/AngelAuraMC/Amethyst-iOS
+공식 사이트
+https://pojavlauncher.app/wiki/getting_started/INSTALL.html#android
 포켓몬 골드, 에메랄드도 가져와서 넣어놨고, 인터넷에 군대 html게임 등이라고 치면 많이 나옵니다.
 zip파일로 되어있는건 두가지 버전 중에서 최신 버전으로 용량이 커서 압축되어 있습니다.
 오래된 fps 게임도(doom) 넣어놨습니다.
