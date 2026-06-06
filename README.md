@@ -12,6 +12,7 @@ https://github.com/PojavLauncherTeam/PojavLauncher/releases
 영미권에서 많이 쓰는 것 같은 포자브 런처고 안드로이드용임.
 아이폰 버전 공식은 중지되었고 포크는
 https://github.com/AngelAuraMC/Amethyst-iOS
+https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/tag/v2.2 여기서 다운 후 ipa sign
 공식 사이트
 https://pojavlauncher.app/wiki/getting_started/INSTALL.html#android
 포켓몬 골드, 에메랄드도 가져와서 넣어놨고, 인터넷에 군대 html게임 등이라고 치면 많이 나옵니다.
