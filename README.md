@@ -1,7 +1,7 @@
 # csms
 free safe tool for school pc
 UAYOR(use at your own risk)
-usb에 다운 받아서 사용하세요.(코드 누르고 다운로드 zip, 전체 파일 100mb 아래)
+usb에 다운 받아서 사용하세요.(코드 누르고 다운로드 zip, 전체 파일 약100mb 아래)
 학교에서 쓸만한 도구들을 모아놨습니다.
 게임
 포켓몬 관련 내 파일 저장소
@@ -53,3 +53,5 @@ https://www.oracle.com/kr/virtualization/technologies/vm/downloads/virtualbox-do
 https://annasarchive.info/
 뉴토끼 부활
 ntk01.com
+오펜하이머
+https://m.vk.com/video-230153488_456239084
