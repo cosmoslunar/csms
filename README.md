@@ -45,7 +45,7 @@ https://m.blog.naver.com/nysgkim/220616226236   여기서 파일 강제 삭제 �
 구버전 아카이브
 https://github.com/selenite-cc/selenite-old
 사이트
-selenite.cc
+https://selenite.cc/
 https://wepplication.github.io/links/
 2048게임 https://blog.yjyoon.dev/  https://yjyoon-dev.github.io/games/2048.html
 html도구, 게임 https://github.com/h2llo/learn-js
