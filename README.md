@@ -38,16 +38,21 @@ https://m.blog.naver.com/nysgkim/220616226236   여기서 파일 강제 삭제 �
 토렌트 구버전(광고X)올림
 토르 프로젝트 사이트가 차단되어도 토르 자체는 차단 안 될 수도 있음(확인법 핸드폰에 토르 설치하고 차단된 인터넷 망에 접속)(https://www.torproject.org 공식 사이트, 막히면 일단 공식 깃허브 레포 https://github.com/TheTorProject/gettorbrowser/releases가 보셈 안되면 이 레포 아래쪽에 있는 릴리즈에서 다운로드) 이거까지 막히면 집에서 다운로드 받고 usb, gmail, 구글드라이브 등으로 옮겨서 쓰셈(최신 버전은 대략 100mb)
 불법 사이트 긴급 차단 시행 중https://www.anaheimfmc.org/link vpn, tor 사용 추천함(옛날에 올라온 블로그 여기 우회법 설명 있음 https://m.blog.naver.com/blue_7335/221693498353 법 시행 관련 설명출처: 나무위키 https://share.google/7sKWlzAezcoznvYYj 5월 중순 시행 예정)
-보안 관련 팁:최근 옛날부터 발견되던 아이폰 해킹 툴을 계승해서 coruna킷이 발견되었으니 업데이트 필요(+아이폰이 안전하다고 하지만 코드가 오픈되어있지 않아서 취약점이 고쳐지는데 오래 걸려서 개인적으로 취약점이 모두에게 빨리 발견되는 안드로이드 추천함)(+항상 업데이트는 최신버전으로!)
+보안 관련 팁:최근 옛날부터 발견되던 아이폰 해킹 툴을 계승해서 coruna킷이 발견되었으니 업데이트 필요(+아이폰이 안전하다고 하지만 코드가 오픈되어있지 않아서 취약점이 고쳐지는데 오래 걸려서 개인적으로 안드로이드 추천함)(+항상 업데이트!)
 구글 ai 엣지 갤러리라는 로컬 ai 실행 앱 있는데 추천함
 웹 게임 poki, cloudmoon
+보안 있는 곳에서도 가능한 웹 게임
+구버전 아카이브
+https://github.com/selenite-cc/selenite-old
+사이트
+selenite.cc
 https://wepplication.github.io/links/
 2048게임 https://blog.yjyoon.dev/  https://yjyoon-dev.github.io/games/2048.html
 html도구, 게임 https://github.com/h2llo/learn-js
 gnarly(레딧에서 유명한 불법 게임)
 https://rentry.co/gnarly_repacks
 https://gnarly-repacks.com/
-vm추천
+vm
 https://www.oracle.com/kr/virtualization/technologies/vm/downloads/virtualbox-downloads.html#vbox
 무료 책
 https://annasarchive.info/
